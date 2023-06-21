@@ -1,5 +1,5 @@
 # Blog (admin segment)
-To see the website visit [blog](https://)
+To see the website visit [blog](https://blog-admin-zeta.vercel.app/)
 ## Description
 This project is the part of the [TOP project: blog api](https://www.theodinproject.com/lessons/nodejs-blog-api).  
 ### Other parts
